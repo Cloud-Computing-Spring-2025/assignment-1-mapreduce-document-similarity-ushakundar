@@ -1,0 +1,4 @@
+Comparing Documents:	document3.txt and document2.txt
+Common Words (8):	a, that, and, machine, of, is, learning, it
+Unique Words (A ∪ B) (49):	data, recognition, accuracy, areas, language, branch, that, complex, from, image, large, natural, in, involves, like, patterns, is, it, intelligence, improving, analyze, processing, useful, algorithms, deep, neural, focuses, learning, datasets, networks, can, and, of, make, creation, on, over, a, particularly, learn, predictions, the, artificial, speech, machine, uses, time, to, subset
+Jaccard Similarity:	0.16

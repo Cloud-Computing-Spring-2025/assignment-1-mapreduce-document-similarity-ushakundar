@@ -1,0 +1,4 @@
+Comparing Documents:	document3.txt and document1.txt
+Common Words (4):	and, of, is, learning
+Unique Words (A ∪ B) (45):	deep, neural, simulation, reasoning, recognition, areas, language, learning, datasets, networks, branch, these, that, computer, systems, and, by, complex, of, human, a, image, include, processes, particularly, large, natural, in, like, patterns, is, it, selfcorrection, intelligence, the, artificial, especially, speech, machine, analyze, processing, uses, machines, to, useful
+Jaccard Similarity:	0.09

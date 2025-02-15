@@ -1,0 +1,4 @@
+Comparing Documents:	document2.txt and document1.txt
+Common Words (7):	the, artificial, and, of, is, learning, intelligence
+Unique Words (A ∪ B) (39):	algorithms, data, simulation, reasoning, accuracy, focuses, learning, these, can, that, computer, systems, and, by, of, from, human, make, creation, on, over, a, include, processes, involves, learn, is, it, selfcorrection, predictions, intelligence, the, artificial, improving, especially, machine, machines, time, subset
+Jaccard Similarity:	0.18

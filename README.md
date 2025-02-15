@@ -1,14 +1,9 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18028247&assignment_repo_type=AssignmentRepo)
-### **📌 Document Similarity Using Hadoop MapReduce**  
-
+#### **Document Similarity using Hadoop MapReduce** ###
 #### **Objective**  
-The goal of this assignment is to compute the **Jaccard Similarity** between pairs of documents using **MapReduce in Hadoop**. You will implement a MapReduce job that:  
-1. Extracts words from multiple text documents.  
-2. Identifies which words appear in multiple documents.  
-3. Computes the **Jaccard Similarity** between document pairs.  
-4. Outputs document pairs with similarity **above 50%**.  
-
+This project implements a document similarity computation using Hadoop MapReduce. It calculates the Jaccard Similarity between pairs of text documents stored in HDFS.
 ---
+
+
 
 ### **📥 Example Input**  
 

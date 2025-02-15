@@ -1,0 +1,2 @@
+Machine learning is a subset of artificial intelligence that involves the creation of algorithms that can learn from and make predictions on data.
+It focuses on improving accuracy over time.

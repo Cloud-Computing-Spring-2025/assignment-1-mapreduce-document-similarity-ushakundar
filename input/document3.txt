@@ -1,0 +1,2 @@
+Deep learning is a branch of machine learning that uses neural networks to analyze complex patterns in large datasets.
+It is particularly useful in areas like image and speech recognition, and natural language processing.
